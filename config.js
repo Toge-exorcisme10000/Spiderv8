@@ -7,7 +7,7 @@
 */
 
 global.prefa = ['','!','.',',','ðŸ¤','ðŸ—¿']
-global.owner = [25767334893']
+global.owner = ['25767334893']
 global.ownMain = '25767334893'
 global.NamaOwner = 'TOGE INUMAKI ’' //
 global.sessionName = 'session'
